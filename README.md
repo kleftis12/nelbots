@@ -1,4 +1,4 @@
-# DISCLAIMERI
+# DISCLAIMER!
 I did not code this bot.
 These files are from GeniusXD/free-agario-fb-bots and https://github.com/xN3BULA/free-agario-bots
 # free-agario-bots
@@ -6,7 +6,7 @@ Free open source agar.io facebook bots, normal and proxy version!
 
 ## Change Log
 New version - v2.0.0
-* Bypass recaptcha v3 [but u will still get captcha]
+* Bypass recaptcha v3 [but you will still get captcha]
 * FB doesn't work [join discord server for more info]
 
 ## Discord
@@ -31,7 +31,7 @@ Windows
 10. To run the bots again just run `start.bat`, click "Connect" button and then click "Start Bots" button if you did everything right bots should start again
 11. Always make sure you wait the 30 seconds for process to close or you are gonna get captcha on your ip
 
-VPS
+Linux
 -------
 1. I recommend using a Ubuntu 18.04 LTS from DigitalOcean. You can get one for $5/month and you can use this [link](https://m.do.co/c/fa7a805f6e60) to get $50 on the platform
 2. Run `sudo apt install git` command
