@@ -1,4 +1,4 @@
-# DISCLAIMERI
+# DISCLAIMER!
 I did not code this bot.
 These files are from GeniusXD/free-agario-fb-bots and https://github.com/xN3BULA/free-agario-bots
 # free-agario-bots
